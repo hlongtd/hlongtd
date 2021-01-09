@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
-- 👨‍💻 All of my projects are available at [https://hlongtd.github.io/](https://hlongtd.github.io/)
+- 👨‍💻 All of my projects are available at [https://hlongtd.github.io/longtran/](https://hlongtd.github.io/longtran/)
 
 - 💬 Ask me about **React, GSAP and Vue**
 
 - 📫 Reach me at **hlongtd@gmail.com**
 
-- 📄 Know about my experiences [https://hlongtd.github.io/](https://hlongtd.github.io/)
+- 📄 Know about my experiences [https://hlongtd.github.io/longtran/]https://hlongtd.github.io/longtran/)
 
 - ⚡ Fun fact **I am an adaptable person. I am the type of person who lives practically and simply**
 
