@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlongtd&label=Profile%20views&color=d438ff&style=plastic" alt="hlongtd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hlongtd" alt="hlongtd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hlongtd&theme=dracula" alt="hlongtd" /></a> </p>
 
 - 🔭 I’m currently working on [IELTS TINDER](https://github.com/liem18112000/ielts_tinder)
 
