@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Dao Hoang Long</h1>
 <h3 align="center">A passionate Frontend Developer from VietNam</h3>
-<img src="https://64.media.tumblr.com/cdbd22d54174bf205c71b8e0c6301120/tumblr_p7n7hsFfO01qeyvpto1_r1_500.gif" align="center" style="width: 100%", "height: 20%" />
+<img src="https://media4.giphy.com/media/AmedNE7qPdv2MiGVKZ/giphy.gif?cid=790b7611b1d9cbbc7e800e747b0e7f22ad8a86f2c7154545&rid=giphy.gif&ct=g" align="center" style="width: 100%"/>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlongtd&label=Profile%20views&color=d438ff&style=plastic" alt="hlongtd" /> </p>
 
