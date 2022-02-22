@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Dao Hoang Long</h1>
 <h3 align="center">A passionate Frontend Developer from VietNam</h3>
-
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlongtd&label=Profile%20views&color=d438ff&style=plastic" alt="hlongtd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hlongtd&theme=dracula" alt="hlongtd" /></a> </p>
