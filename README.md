@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Dao Hoang Long</h1>
 <h3 align="center">A passionate Frontend Developer from VietNam</h3>
-<iframe src="https://giphy.com/embed/ddGvtRqYF75uDPzJb4" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-gif-artist-ericaofanderson-ddGvtRqYF75uDPzJb4">via GIPHY</a></p>
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://giphy.com/embed/ddGvtRqYF75uDPzJb4" align="center" style="width: 100%" />
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlongtd&label=Profile%20views&color=d438ff&style=plastic" alt="hlongtd" /> </p>
 
